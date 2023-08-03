@@ -5,7 +5,7 @@
 	<groupId>ITSutra</groupId>
 	<artifactId>ParameterInMaven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ItSutraLearing</name>
+	<name>ItSutraLearingDemo</name>
 	<description>Parameter Usage Demo in Maven</description>
 
 	<properties>
